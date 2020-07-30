@@ -8,4 +8,3 @@ To run these notebooks you will need to make an account on the [Microsoft Azure 
 
 ## Extra info
 I do not believe you need the HTML files to run the notebooks, I don't know why we had them but I just included them just incase.
-The section 5 has files that say section 4 but they are section 5 if I have not chnaged them by this time.
